@@ -2,6 +2,7 @@
 
 ![image](https://github.com/Ajinkya-Adsule/Accenture-Technology-Consulting-Virtual-Internship-Job-Simulation-Forage/blob/45fb517708b1b49b5e8c3dbf032e95c5b08fdeda/Project%20Files/Completion%20Certificate%20Ajinkya%20Adsule.png)
 
+Click to verify : chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/DMrpG9KbbePZxGfSN/AMZXXaKrixhEK2T72_DMrpG9KbbePZxGfSN_PtkWufsWHAADLBrWc_1746184701264_completion_certificate.pdf
 Hi Guys ,
 
 This repository contains the solutions to the tasks that were completed as a part of the Accenture-Technology-Consulting-Virtual-Internship-Job-Simulation-Forage 
